@@ -4,7 +4,7 @@
   "description": "html library",
   "main": "dist/index.js",
   "bin": {
-    "html-builder": "dist/bin/index.js"
+    "html-builder": "dist/bin/html-builder.js"
   },
   "engines": {
     "node": ">=8"
